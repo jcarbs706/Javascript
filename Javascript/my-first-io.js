@@ -9,3 +9,4 @@ var arr = str.split('\n');
 
 
 console.log(arr.length - 1);
+console.log(x);

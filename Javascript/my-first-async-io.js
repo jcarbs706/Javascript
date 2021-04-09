@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let file = process.argv[2]; //
+let file = process.argv[2]; //let file = third string of command line input
 
 function callback(err, data){
     const str = data.toString(); //converts data to string
